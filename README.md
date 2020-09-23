@@ -1,2 +1,3 @@
 # info2180-lab1
-This is a repository for my lab exercise for my Web Development Course
+
+This is Lab 1 for Marlon Williams
